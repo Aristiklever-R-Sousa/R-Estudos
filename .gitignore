@@ -1,0 +1,7 @@
+# DATA FILES
+.RData
+.Rhistory
+
+# STATIC FILES
+*.zip
+*.txt
