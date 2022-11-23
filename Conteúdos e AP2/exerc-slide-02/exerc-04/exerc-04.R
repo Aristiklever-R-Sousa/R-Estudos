@@ -9,3 +9,5 @@ pea.tab <- as.table(pea)
 pea.prop <- prop.table(pea.tab)
 
 # Com certeza, há alterações nas respostas de cidade para cidade.
+
+
